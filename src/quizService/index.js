@@ -256,7 +256,7 @@ const qBank = [
 	},
 	{
 		question:
-			'According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."',
+			'Sherlock Holmes: "If you eliminate the impossible, whatever remains, however improbable, must be the..."',
 		answers: ["Truth", "Answer", "Cause", "Source"],
 		correct: "Truth",
 		questionId: "3410327",
@@ -337,9 +337,9 @@ const qBank = [
 		question: "What is Tasmania?",
 		answers: [
 			"An Australian State",
-			"A flavor of Ben and Jerry's ice-cream",
+			"A flavor of ice-cream",
 			"A Psychological Disorder",
-			"The Name of a Warner Brothers Cartoon Character",
+			"A Warner Brothers Cartoon Character",
 		],
 		correct: "An Australian State",
 		questionId: "4564430",
