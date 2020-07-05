@@ -203,7 +203,7 @@ const qBank = [
 	},
 	{
 		question:
-			"What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+			"What was the nickname given to the Hughes H-4 Hercules, which achieved flight in 1947?",
 		answers: ["Spruce Goose", "Noah's Ark", "Fat Man", "Trojan Horse"],
 		correct: "Spruce Goose",
 		questionId: "2796884",
